@@ -1,4 +1,4 @@
-function Results({userInput})
+function Results({UserInput})
 {
     return(
         <p>Results...</p>
